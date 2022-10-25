@@ -3,13 +3,11 @@
 ## Title
 AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN
 
-# Authors
+## Authors
 Anonymous authors
 
-# Overview
+## Overview
 
-# Build Environment
+## Build Environment
 
-# Prerequisites
-
-#
+## Prerequisites
