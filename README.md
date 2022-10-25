@@ -27,4 +27,4 @@ Evaluation results are shown in the following file.
 
 * http://github.com/network-traffic/AppSniffer/AppSniffer_app_recognition.ipynb
 
-[Entire source code will also be released after publication.]
+[Entire source code will be released after publication.]
