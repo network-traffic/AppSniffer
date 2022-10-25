@@ -1,6 +1,6 @@
 # AppSniffer
 
-# Title
+## Title
 AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN
 
 # Authors
