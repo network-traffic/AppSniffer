@@ -25,6 +25,6 @@ We upload a sample dataset to check the performance of AppSniffer.
 ## See Results
 Evaluation results are shown in the following file.
 
-* (http://github.com/network-traffic/AppSniffer/AppSniffer_app_recognition.ipynb)
+* http://github.com/network-traffic/AppSniffer/AppSniffer_app_recognition.ipynb
 
 [Entire source code will also be released after publication.]
