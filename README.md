@@ -9,14 +9,6 @@ Anonymous authors
 ## Overview
 AppSniffer aims to precisely identify mobile apps when a VPN or a proxy is used to hide their identities. That is, AppSniffer recognizes apps with a high accuracy using their network traffic regardless of whether it is being sent over a VPN or not.
 
-## Requirements
-* pandas
-* sklearn
-* numpy
-* autogluon
-* tshark
-* adb
-
 ## Dataset
 We upload a sample dataset to check the performance of AppSniffer. 
 
