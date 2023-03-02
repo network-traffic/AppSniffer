@@ -18,8 +18,6 @@ Partial evaluation results are shown in the following file.
 
 [Entire source code will be released after publication.]
 
-## Citation
-
 ## Bibtex
 ```
 @inproceedings{oh2023appsniffer,
