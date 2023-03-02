@@ -18,7 +18,14 @@ Partial evaluation results are shown in the following file.
 
 [Entire source code will be released after publication.]
 
+## Citation
+
 ## Bibtex
 ```
-TBA
+@inproceedings{oh2023appsniffer,
+  title={{AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN}},
+  author={Oh, Sanghak and Lee, Minwook and Lee, Hyunwoo and Bertino, Elisa and Kim, Hyoungshick},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  year={2023}
+}
 ```
