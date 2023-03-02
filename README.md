@@ -17,3 +17,8 @@ Partial evaluation results are shown in the following file.
 * https://github.com/network-traffic/AppSniffer/blob/main/AppSniffer_app_recognition.ipynb
 
 [Entire source code will be released after publication.]
+
+## Bibtex
+```
+TBA
+```
