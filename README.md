@@ -7,10 +7,10 @@ AppSniffer: Towards Robust Mobile App Fingerprinting Against VPN
 AppSniffer aims to precisely identify mobile apps when a VPN or a proxy is used to hide their identities. That is, AppSniffer recognizes apps with a high accuracy using their network traffic regardless of whether it is being sent over a VPN or not.
 
 ## Dataset
-We upload a sample dataset to check the performance of AppSniffer. 
+We upload datasets to check the performance of AppSniffer. 
 
 ## See Results
-Partial evaluation results are shown in the following file.
+Evaluation results are shown in the following file.
 
 * https://github.com/network-traffic/AppSniffer/blob/main/AppSniffer_app_recognition.ipynb
 
