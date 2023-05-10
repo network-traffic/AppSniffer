@@ -16,13 +16,13 @@ The datasets used for the AppSniffer Experiment consist of five types:
 
 **Android150_with_Surfshark**
 
-We provide three formats of each dataset (Raw pcap files, pickle files, and CSV files) for future research work. 
+We provide three formats of each dataset (raw pcap files, pickle files, and CSV files) for future research work. 
 
 In our experiments, we extract flow data from pcap files and generate CSV files of packet length sequence features.
 
 (Pcap files -> Pickle files -> CSV files)
 
-From Pcap files to Pickle files, we use FlowPrint library using --pcaps options.
+From pcap files to pickle files, we use the FlowPrint library with --pcaps options.
 
 https://flowprint.readthedocs.io/en/latest/usage/command_line.html
 
