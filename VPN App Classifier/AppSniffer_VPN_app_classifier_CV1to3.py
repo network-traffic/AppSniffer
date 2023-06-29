@@ -17,6 +17,8 @@ result_txt = open(f"result_{dataset}.txt", 'w')
 for cv_count, cutting_size in zip(range(1, 4), [4226, 4224, 4213]):#TurboVPN
   df_train = pd.read_csv(f'{dataset}_CV_{cv_count}_train_10000.csv', )
   df_test = pd.read_csv(f'{dataset}_CV_{cv_count}_test_10000.csv', )
+  ### During CV 1 to 3, for the validation set, we use a fold of the validation set called CV4_test. ###
+  ### This set is not certainly included in any set of train or test set in CV1 to CV3 ###
   df_valid = pd.read_csv(f'{dataset}_CV_4_test_10000.csv', )
 
   title_small = []
