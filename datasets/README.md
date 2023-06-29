@@ -27,3 +27,14 @@ From pcap files to pickle files, we use the FlowPrint library with --pcaps optio
 https://flowprint.readthedocs.io/en/latest/usage/command_line.html
 
 python3 -m flowprint --pcaps <data.pcap> --write <flows.p>
+
+## Bibtex
+```
+@inproceedings{vanede2020flowprint,
+  title={{FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic}},
+  author={van Ede, Thijs and Bortolameotti, Riccardo and Continella, Andrea and Ren, Jingjing and Dubois, Daniel J. and Lindorfer, Martina and Choffness, David and van Steen, Maarten, and Peter, Andreas},
+  booktitle={NDSS},
+  year={2020},
+  organization={The Internet Society}
+}
+```
