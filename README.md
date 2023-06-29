@@ -9,10 +9,13 @@ AppSniffer aims to precisely identify mobile apps when a VPN or a proxy is used 
 ## Datasets
 We upload datasets to check the performance of AppSniffer. 
 
-## See Results
-Evaluation results are shown in the following file.
+## See Quick Example Results
+Quick Sample results (NordVPN CV1) are shown in the following file.
 
 * https://github.com/network-traffic/AppSniffer/blob/main/AppSniffer_app_recognition.ipynb
+
+## Futher Evalutation
+For futher evaulation, please use "AppSniffer_VPN_app_classifier_CV1to3.py" in "VPN App Classifier" directory. 
 
 ## Bibtex
 ```
