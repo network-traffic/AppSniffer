@@ -14,8 +14,8 @@ Quick Sample results (NordVPN CV1) are shown in the following file.
 
 * https://github.com/network-traffic/AppSniffer/blob/main/AppSniffer_app_recognition.ipynb
 
-## Futher Evalutation
-For futher evaulation, please use "**AppSniffer_VPN_app_classifier_CV1to3.py**" in "**VPN App Classifier**" directory. 
+## Further Evalutation
+For further evaulation, please use "**AppSniffer_VPN_app_classifier_CV1to3.py**" in "**VPN App Classifier**" directory. 
 
 ## Bibtex
 ```
